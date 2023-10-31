@@ -4,6 +4,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zachary-wW&theme=vue)](https://github.com/Zachary-wW/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zachary-wW&theme=default)](https://git.io/streak-stats)
 
 
 
