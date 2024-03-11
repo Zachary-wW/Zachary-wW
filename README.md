@@ -1,5 +1,5 @@
-### Hello! This is Zhihao WEI !👋
-#### Now I am a beginner in C++. And I want to be a professional worker in C++ & Golang! 
+### Hello! This is Zachary !👋
+#### Now I am a beginner in C++ and Golang. And I want to be a professional worker! 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zachary-wW&theme=vue)](https://github.com/Zachary-wW/github-readme-activity-graph)
