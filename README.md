@@ -1,24 +1,43 @@
-### Hello! This is Zachary !👋
-#### Now I am a beginner in C++ and Golang. And I want to be a professional worker! 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zachary-wW&theme=vue)](https://github.com/Zachary-wW/github-readme-activity-graph)
+<p align="left">I'm Zachary. <br><br>- 🔭 I’m working as a Software Engineer. <br>- 📚 I'm currently learning Agent & LLM. <br>- ⚡ In my free time I usually play tennis.</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zachary-wW&theme=solarized-light)](https://git.io/streak-stats)
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-<!--
-**Zachary-wW/Zachary-wW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🔥  Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Zachary-wW/Zachary-wW/stats-output/stats.svg" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zachary-wW/Zachary-wW/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zachary-wW/Zachary-wW/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zachary-wW/Zachary-wW/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
