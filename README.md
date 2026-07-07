@@ -29,7 +29,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zachary-wW&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Zachary-wW/Zachary-wW/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
