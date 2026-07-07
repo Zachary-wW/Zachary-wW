@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">I'm Zachary.<br><br>- 🔭 I’m working as a Software Engineer. <br>- 📚 I'm currently learning Agent & LLM. <br>- ⚡ In my free time I like playing tennis & snowboarding</p>
+<p align="left">
+  👋 Hi, I'm Zachary Wei.<br><br>
+  - 🎓 My undergrad &amp; master's research focused on <b>SLAM &amp; NeRF</b>.<br>
+  - 🤖 Currently researching &amp; learning <b>LLM pre-training &amp; post-training</b> and <b>Agent development</b>.<br>
+  - 🎾 In my free time I enjoy playing <b>tennis</b> and <b>snowboarding</b>.<br>
+  - 📝 Personal blog: <a href="https://zachary-ww.github.io/">zachary-ww.github.io</a><br>
+  - ✉️ Contact: <a href="mailto:zweiaq@connect.ust.hk">zweiaq@connect.ust.hk</a>
+</p>
 
 ###
 
